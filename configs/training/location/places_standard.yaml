@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /media/vinh/Disk0/lama_totaltext/places_standard_dataset/
+out_root_dir: /media/vinh/Disk0/lama_totaltext/experiments/
+tb_dir: /media/vinh/Disk0/lama_totaltext/tb_logs/
+pretrained_models: /media/vinh/Disk0/lama_totaltext/

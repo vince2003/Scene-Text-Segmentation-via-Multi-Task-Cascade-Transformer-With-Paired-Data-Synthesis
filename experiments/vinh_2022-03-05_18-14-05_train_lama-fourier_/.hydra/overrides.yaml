@@ -1,0 +1,2 @@
+- location=my_dataset
+- data.batch_size=24

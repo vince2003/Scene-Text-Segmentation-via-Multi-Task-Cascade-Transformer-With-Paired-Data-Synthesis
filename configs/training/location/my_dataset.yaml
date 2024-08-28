@@ -1,0 +1,3 @@
+data_root_dir: /media/vinh/Disk0/customize_lama/my_dataset/
+out_root_dir: /media/vinh/Disk0/customize_lama/experiments/
+tb_dir: /media/vinh/Disk0/customize_lama/tb_logs/
