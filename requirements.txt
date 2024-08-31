@@ -22,3 +22,5 @@ webdataset
 packaging
 scikit-learn==0.24.2
 wldhx.yadisk-direct
+timm
+mmcv-full
