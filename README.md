@@ -1,7 +1,7 @@
 
 # Scene Text Segmentation via Multi-Task Cascade Transformer With Paired Data Synthesis
 
-This repository contains the code for scene text segmentation using a multi-task cascade transformer with paired data synthesis. The model is designed in two phases: **Paired Data Generation** and **Pixel-level Scene Text Segmentation**. This separation allows for effective data synthesis followed by robust text segmentation.
+This repository contains the code for scene text segmentation using a multi-task cascade transformer with paired data synthesis. The model is designed in two phases: **Paired Data Generation** and **Pixel-level Scene Text Segmentation**. This separation allows for effective data synthesis followed by robust text segmentation trained on a large volume of this synthetic data.
 
 ## Table of Contents
 1. [Paired Data Generation](#paired-data-generation)
